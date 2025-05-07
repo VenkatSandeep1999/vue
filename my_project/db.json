@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publisher": "J. B. Lippincott & Co.",
+      "genre": "Fiction",
+      "publication_date": "1960-07-11",
+      "page_count": 281,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+      "description": "The story of racial injustice and the loss of innocence in the American South through the eyes of a young girl named Scout Finch.",
+      "isbn": "9780061120084",
+      "average_rating": 4.27
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "publisher": "Secker & Warburg",
+      "genre": "Dystopian",
+      "publication_date": "1949-06-08",
+      "page_count": 328,
+      "cover_image": "https://www.historynet.com/wp-content/uploads/2022/05/1984-by-George-Orwell-book-cover.jpeg",
+      "description": "A dystopian novel set in a totalitarian society ruled by the Party and its leader Big Brother, where individualism is forbidden.",
+      "isbn": "9780451524935",
+      "average_rating": 4.19
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publisher": "Charles Scribner's Sons",
+      "genre": "Classic",
+      "publication_date": "1925-04-10",
+      "page_count": 180,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+      "description": "A story of wealth, love, and the American Dream in the Jazz Age, told through the eyes of narrator Nick Carraway.",
+      "isbn": "9780743273565",
+      "average_rating": 3.93
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publisher": "George Allen & Unwin",
+      "genre": "Fantasy",
+      "publication_date": "1937-09-21",
+      "page_count": 310,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheHobbit_FirstEdition.jpg",
+      "description": "A fantasy novel about the adventures of hobbit Bilbo Baggins as he journeys to win a share of treasure guarded by the dragon Smaug.",
+      "isbn": "9780547928227",
+      "average_rating": 4.28
+    },
+    {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "publisher": "Celadon Books",
+      "genre": "Psychological Thriller",
+      "publication_date": "2019-02-05",
+      "page_count": 323,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/en/d/df/The_Silent_Patient_early_2019_UK_edition.png",
+      "description": "A woman shoots her husband and then stops speaking, and a criminal psychotherapist tries to unravel the mystery.",
+      "isbn": "9781250301697",
+      "average_rating": 4.18
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "publisher": "Harper",
+      "genre": "Non-fiction",
+      "publication_date": "2011-02-10",
+      "page_count": 443,
+      "cover_image": "https://th.bing.com/th/id/OIP.B1MgJgEiY26vXvEh7JWgSwAAAA?rs=1&pid=ImgDetMain",
+      "description": "An exploration of the history of Homo sapiens from the Stone Age to the 21st century, examining biology and historical events.",
+      "isbn": "9780062316097",
+      "average_rating": 4.37
+    }
+  ]
+}
