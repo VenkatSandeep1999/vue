@@ -5,12 +5,15 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "start": "vue-cli-service serve",
+    "preview": "vue-cli-service serve --mode production",
     "lint": "vue-cli-service lint",
-    "fakejson": "npx json-server --watch -p 9928 db.json"
+    "jsonbackend": "npx json-server --watch -p 9928 db.json"
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "serve": "^14.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -28,7 +31,7 @@
     },
     "extends": [
       "plugin:vue/vue3-essential",
-      "eslint:recommended"
+      "eslint: recommended"
     ],
     "parserOptions": {
       "parser": "@babel/eslint-parser"
